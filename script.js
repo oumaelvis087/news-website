@@ -1,4 +1,4 @@
-const API_KEY = "YOUR API KEY";
+const API_KEY = "f7d8a5a15671430c9e820f12ad04c467";
 const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => {
